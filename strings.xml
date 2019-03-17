@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">トースト</string>
+
+    <string name="toast_name1">%s</string>
+    <string name="toast_name2">でログインしました</string>
+    <string name="hint_text">テキスト入力</string>
+</resources>
